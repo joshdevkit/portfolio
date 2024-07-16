@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://linkedin.com/in/pedro-sales-muniz"
+            href="https://cand-data.kalibrr.com/www.kalibrr.com/profile/L7S9MAJFGSANPJDBUFCC2V7YUTN9PPQQG4FUSC6R-6695e0c6.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
