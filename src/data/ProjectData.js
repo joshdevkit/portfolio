@@ -95,7 +95,7 @@ export const stackList = [
     name: "Material UI",
   },
   {
-    img: "/tailwind-svgrepo-com.svg",
+    img: "tailwind-svgrepo-com.svg",
     name: "TailwindCSS",
   },
   {
