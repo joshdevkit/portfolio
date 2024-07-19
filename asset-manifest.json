@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.ed865d98.css",
+    "main.js": "/my-react-portfolio/static/js/main.aca320be.js",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/media/blob-haikei.svg": "/my-react-portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.ed865d98.css.map": "/my-react-portfolio/static/css/main.ed865d98.css.map",
+    "main.aca320be.js.map": "/my-react-portfolio/static/js/main.aca320be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed865d98.css",
+    "static/js/main.aca320be.js"
+  ]
+}
