@@ -1,51 +1,53 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "project-images/attendance-system.JPG",
+    title: "ATTENDANCE SYSTEM",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
+      "A comprehensive web-based attendance tracking system for students and faculty, designed to simplify attendance management.",
+    tech_stack: ["React JS", "NodeJS", "Express", "Bootstrap"],
     github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    demo_url: "#",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "project-images/constructions.JPG",
+    title: "PROJECT MANAGEMENT - CONSTRUCTION SYSTEM",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
+      "A robust web-based project management system tailored for the construction industry, streamlining project tracking and collaboration.",
+    tech_stack: ["LARAVEL 10", "MYSQL", "JQuery", "Bootstrap"],
     github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+    demo_url: "#",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "project-images/progreen-by-and-sale.JPG",
+    title: "PROGREEN TECHNOLOGIES - BUY AND SELL PLATFORM",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+      "A dynamic web-based platform for buying and selling products, inspired by Buy and Sell PH, featuring user-friendly interfaces.",
+    tech_stack: ["PHP", "MYSQL", "JQuery", "Bootstrap"],
+    github_url: "",
+    demo_url: "#",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    img: "project-images/zafreen.JPG",
+    title: "DENTAL APPOINTMENT AND SCHEDULING SYSTEM",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+      "A specialized web-based appointment scheduling system for dental practices, integrating Gcash payment gateway for easy transactions.",
+    tech_stack: ["PHP", "MYSQL", "JQuery", "Bootstrap"],
+    github_url: "",
+    demo_url: "#",
   },
+
   {
-    img: "/jobDetect.png",
-    title: "JobDetect",
+    img: "project-images/web-eccomerce.JPG",
+    title: "MOBILE ECOMMERCE - APPLE STORE",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+      "A specialized web-based for online mobile shopping Application, integrating Stripe payment gateway for easy transactions.",
+    tech_stack: ["LARAVEL", "LIVEWIRE", "MYSQL", "TailwindCSS"],
+    github_url: "",
+    demo_url: "#",
   },
 ];
+
 
 // --------------------------------------- Skills
 

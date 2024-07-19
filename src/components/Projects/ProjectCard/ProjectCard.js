@@ -13,9 +13,9 @@ function ProjectCard() {
   return (
     <>
     <div>
-      <p>Coming Soon... haven't uploaded all yet</p>
+     
       </div>
-      {/* {ProjectList.map((list, index) => (
+      {ProjectList.map((list, index) => (
         <ScrollAnimation animateIn="fadeInLeft" key={index}>
           <Card>
             <CardLeft>
@@ -47,14 +47,14 @@ function ProjectCard() {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Demo ➜
+                    Demo Link Soon ➜
                   </a>
                 )}
               </BtnGroup>
             </CardRight>
           </Card>
         </ScrollAnimation>
-      ))} */}
+      ))}
     </>
   );
 }
